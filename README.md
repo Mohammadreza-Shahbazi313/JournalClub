@@ -19,7 +19,7 @@ The goal is clarity, consistency, and easy access to shared academic resources.
 
 ---
 
-## 📁 Recommended Structure
+## 📁 Structure
 papers/ # Research papers (PDFs or reference files)
 slides/ # Presentation slides
 summaries/ # Short markdown summaries of each paper
