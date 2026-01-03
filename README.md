@@ -4,16 +4,41 @@
 [![License](https://img.shields.io/github/license/Mohammadreza-Shahbazi313/JournalClub)]()
 [![Commits](https://img.shields.io/github/commit-activity/m/Mohammadreza-Shahbazi313/JournalClub)]()
 
-A shared **Journal Club** repository for storing research articles, presentation files, and concise summaries used in weekly academic discussions.
+A lightweight **Journal Club** repository for organizing research papers, presentation materials, and concise summaries used in academic discussions.
 
 ---
 
-## 🔎 Purpose
-This repository is designed to be the single source of truth for our Journal Club:
-- Collect papers (PDFs / links) relevant to our group.  
-- Store polished presentation slides and raw notes.  
-- Maintain short structured summaries for quick review.
+## 🎯 Purpose
+This repository serves as a centralized workspace for Journal Club activities:
+
+- Organizing research papers (PDFs or reference links)
+- Storing presentation slides and discussion notes
+- Keeping short, structured summaries for fast review and continuity
+
+The goal is clarity, consistency, and easy access to shared academic resources.
 
 ---
 
-## 📁 Recommended repository structure
+## 📁 Recommended Structure
+papers/ # Research papers (PDFs or reference files)
+slides/ # Presentation slides
+summaries/ # Short markdown summaries of each paper
+notes/ # Optional discussion notes
+
+yaml
+Copy code
+
+---
+
+## 📌 Usage
+Each paper discussed in the Journal Club should ideally include:
+- The paper file or reference
+- A brief summary highlighting key ideas and questions
+- Any slides or notes used during the presentation
+
+This keeps discussions reproducible and easy to revisit.
+
+---
+
+## 📄 License
+This repository is intended for educational and academic use.
