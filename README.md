@@ -1,6 +1,6 @@
 ![JournalClub](https://github.com/user-attachments/assets/24d571a1-3086-4be9-976c-2190c519ba1a)# JournalClub
 
-[![contributors](https://img.shields.io/github/repo-size/Mohammadreza-Shahbazi313/JournalClub)]()
+[![contributors](https://img.shields.io/github/contributors/Mohammadreza-Shahbazi313/JournalClub)]()
 [![License](https://img.shields.io/github/license/Mohammadreza-Shahbazi313/JournalClub)]()
 [![last Commit](https://img.shields.io/github/last-commit/Mohammadreza-Shahbazi313/JournalClub)]()
 
