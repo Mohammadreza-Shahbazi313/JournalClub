@@ -1,8 +1,11 @@
-# JournalClub
+![JournalClub](https://github.com/user-attachments/assets/24d571a1-3086-4be9-976c-2190c519ba1a)# JournalClub
 
-[![Repo size](https://img.shields.io/github/repo-size/Mohammadreza-Shahbazi313/JournalClub)]()
+[![contributors](https://img.shields.io/github/repo-size/Mohammadreza-Shahbazi313/JournalClub)]()
 [![License](https://img.shields.io/github/license/Mohammadreza-Shahbazi313/JournalClub)]()
-[![Commits](https://img.shields.io/github/commit-activity/m/Mohammadreza-Shahbazi313/JournalClub)]()
+[![last Commit](https://img.shields.io/github/last-commit/Mohammadreza-Shahbazi313/JournalClub)]()
+
+[![forks](https://img.shields.io/github/forks/Mohammadreza-Shahbazi313/JournalClub)]()
+[![stars](https://img.shields.io/github/stars/Mohammadreza-Shahbazi313/JournalClub)]()
 
 A lightweight **Journal Club** repository for organizing research papers, presentation materials, and concise summaries used in academic discussions.
 
