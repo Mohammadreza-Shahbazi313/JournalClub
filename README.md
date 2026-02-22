@@ -1,5 +1,5 @@
 # 📚 **Journal Club**
-[![GitHub contributors](https://img.shields.io/github/contributors/Mohammadreza-Shahbazi313/JournalClub?style=flat-square)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/Mohammadreza-Shahbazi313/JournalClub)]()
 [![GitHub stars](https://img.shields.io/github/stars/Mohammadreza-Shahbazi313/JournalClub)]()
 [![GitHub forks](https://img.shields.io/github/forks/Mohammadreza-Shahbazi313/JournalClub)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/Mohammadreza-Shahbazi313/JournalClub)]()
