@@ -38,4 +38,4 @@ This keeps discussions reproducible and easy to revisit.
 ---
 
 ## 📄 License
-This repository is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
